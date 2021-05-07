@@ -1,2 +1,2 @@
 ### Fylo Landing Page.
-A dark-themed landing page for users to get basic info and submit emails for an imaginary cloud file storage service. Challenge was inspired by [frontendmentor.io][https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd].
+A dark-themed landing page for users to get basic info and submit emails for an imaginary cloud file storage service. Challenge was inspired by [frontendmentor.io](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd).
